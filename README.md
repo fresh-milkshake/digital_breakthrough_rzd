@@ -173,8 +173,8 @@ uv run python main.py
 ## Использование веб-интерфейса
 
 <p align="center">
-<img src="assets/laptop.png" alt="Интерфейс на ноутбуке" style="border-radius: 10px;">
-<em>Веб-интерфейс на ноутбуке</em>
+    <kbd><img src="assets/laptop.png" alt="Интерфейс на ноутбуке" style="border-radius: 10px;"></kbd>
+    <em>Веб-интерфейс на ноутбуке</em>
 </p>
 
 ### Быстрый старт
@@ -222,17 +222,17 @@ uv run python main.py
 <summary><strong>Показать варианты интерфейса на разных устройствах</strong></summary>
 
 <p align="center">
-  <kbd><img src="assets/mobile.png" alt="Интерфейс на мобильном устройстве" width="200"></kbd><br>
+  <kbd><img src="assets/mobile.png" alt="Интерфейс на мобильном устройстве" width="300"></kbd><br>
   <em>Веб-интерфейс на мобильном устройстве</em>
 </p>
 
 <p align="center">
-  <kbd><img src="assets/tablet.png" alt="Интерфейс на планшетном устройстве" width="300"></kbd><br>
+  <kbd><img src="assets/tablet.png" alt="Интерфейс на планшетном устройстве" width="500"></kbd><br>
   <em>Веб-интерфейс на планшете</em>
 </p>
 
 <p align="center">
-  <kbd><img src="assets/laptop.png" alt="Интерфейс на ноутбуке или ПК" width="400"></kbd><br>
+  <kbd><img src="assets/laptop.png" alt="Интерфейс на ноутбуке или ПК"></kbd><br>
   <em>Веб-интерфейс на ноутбуке или ПК</em>
 </p>
 
