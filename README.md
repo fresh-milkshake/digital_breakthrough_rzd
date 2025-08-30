@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo-clean.svg" alt="logo" width="300">
+    <img src="assets/logo.svg" alt="logo" width="300">
 </p>
 
 # Система обнаружения нарушений ПДД
