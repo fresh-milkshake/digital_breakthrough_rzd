@@ -1,5 +1,13 @@
 # Система обнаружения нарушений ПДД
 
+[![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/Flask-3.1.2+-d54b3d?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.11+-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-FFCC00?logo=yolo&logoColor=white)](https://ultralytics.com/)
+[![License](https://img.shields.io/badge/License-MIT-4CAF50?logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![WebSocket](https://img.shields.io/badge/WebSocket-Socket.IO-lightblue?logo=socket.io&logoColor=white)](https://socket.io/)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+
 Система для обнаружения нарушений ПДД на видеозаписях с использованием компьютерного зрения и технологий глубокого обучения. Проект включает веб-интерфейс для загрузки и обработки видео с обновлениями в реальном времени через `WebSocket` соединения.
 
 ## Особенности
