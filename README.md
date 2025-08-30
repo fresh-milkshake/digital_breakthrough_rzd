@@ -221,21 +221,19 @@ uv run python main.py
 <details>
 <summary><strong>Показать варианты интерфейса на разных устройствах</strong></summary>
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="assets/mobile.png" alt="Интерфейс на мобильном устройстве" style="border-radius: 10px; max-width: 300px;">
-    <div><em>Веб-интерфейс на мобильном устройстве</em></div>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/tablet.png" alt="Интерфейс на планшетном устройстве" style="border-radius: 10px; max-width: 500px;">
-    <div><em>Веб-интерфейс на планшете</em></div>
-  </div>
-</div>
+<p align="center">
+  <kbd><img src="assets/mobile.png" alt="Интерфейс на мобильном устройстве" width="200"></kbd><br>
+  <em>Веб-интерфейс на мобильном устройстве</em>
+</p>
 
 <p align="center">
-   <img src="assets/laptop.png" alt="Интерфейс на ноутбуке или ПК" style="border-radius: 10px;">
-   <br>
-   <em>Веб-интерфейс на ноутбуке или ПК</em>
+  <kbd><img src="assets/tablet.png" alt="Интерфейс на планшетном устройстве" width="300"></kbd><br>
+  <em>Веб-интерфейс на планшете</em>
+</p>
+
+<p align="center">
+  <kbd><img src="assets/laptop.png" alt="Интерфейс на ноутбуке или ПК" width="400"></kbd><br>
+  <em>Веб-интерфейс на ноутбуке или ПК</em>
 </p>
 
 
