@@ -165,8 +165,8 @@ stateDiagram-v2
 Клонирование репозитория и установка зависимостей выполняется стандартными командами. Система автоматически настроит все необходимые компоненты при первом запуске.
 
 ```bash
-git clone https://github.com/MrPaganiniFeeD/Hackathon.-Russia-is-a-country-of-opportunity
-cd Hackathon.-Russia-is-a-country-of-opportunity
+git clone https://github.com/fresh-milkshake/digital_breakthrough_rzd
+cd digital_breakthrough_rzd
 uv sync
 ```
 
